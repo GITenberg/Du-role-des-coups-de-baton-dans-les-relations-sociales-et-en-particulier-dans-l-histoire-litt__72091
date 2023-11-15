@@ -1,0 +1,35 @@
+_repo: Du-role-des-coups-de-baton-dans-les-relations-sociales-et-en-particulier-dans-l-histoire-litt__72091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fournel, Victor
+    aliases:
+    - Fournel, François Victor
+    - Fournel, Francois Victor
+    - Guérard, Edmond
+    - Guerard, Edmond
+    birthdate: 1829
+    deathdate: 1894
+    gutenberg_agent_id: '25223'
+    url: http://www.gutenberg.org/2009/agents/25223
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Fournel
+description: ''
+gutenberg_issued: '2023-11-10'
+identifiers:
+  gutenberg: '72091'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101013669856
+pgterms:marc905: 20230611221845fournel
+pgterms:marc906: '1858'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bA. Delahays, $c1858.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Du rôle des coups de bâton dans les relations sociales et, en particulier,
+  dans l'histoire littéraire
+url: http://www.gutenberg.org/ebooks/72091
